@@ -1,0 +1,2 @@
+FROM gcr.io/istio-release/proxy_debug:1.1.0.snapshot.1
+MAINTAINER gongjj
